@@ -1,0 +1,26 @@
+.translateToEnglish {
+	background-color: #7cbf4d;
+}
+
+.translateToJapanese {
+	background-color: #b14db8;
+}
+
+.tapTokenNumber {
+	font-size: 85%;
+	color: #999999;
+	margin-right: 5px;
+	position: absolute;
+	right: 5px;
+	bottom: 5px;
+}
+
+.tapTokenButton {
+	width: 110%;
+}
+
+.tapTokenMainButton {
+	text-align: center !important;
+	margin-bottom: -100px;
+	width: 100% !important;
+}
